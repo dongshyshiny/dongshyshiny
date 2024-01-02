@@ -1,12 +1,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [CMS, CRM](https://app.alohub.vn/)
+- 🔭 I’m currently working on [CRM](https://app.alohub.vn/)
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [CMS, CRM](https://app.alohub.vn/)
+- 👯 I’m looking to collaborate on [CRM](https://app.alohub.vn/)
 
-- 🤝 I’m looking for help with [CMS, CRM](https://app.alohub.vn/)
+- 🤝 I’m looking for help with [CRM](https://app.alohub.vn/)
 
 - 💬 Ask me about **ReactJs**
 
